@@ -4,3 +4,13 @@ Test.ipnyb contains the code for testing and making predictions
 Countries_sample.ipnyb contains the code for creating the dataset and model for countries
 Denomination_sample.ipnyb contains the code for creating the dataset and model for denominations
 India.ipnyb contains the code for creating the dataset and model for Indian currency banknotes
+
+Dataset Google Drive Links:
+https://drive.google.com/drive/folders/1-VI1A2kZMtfI7VXH6xaZzu10NbXaCGGo?usp=sharing - For all Countries except India
+https://drive.google.com/drive/folders/1pc-U7M6UsckbsmTWQGX5fmumRRG7EDC8?usp=sharing - For Indian notes dataset
+https://drive.google.com/drive/folders/1LUDvkiLbECx-7VVB8aTXrSMy_AHhgBTW?usp=sharing - For some extra, yet poorly compiled, datasets
+
+Saved Model Google Drive links:
+https://drive.google.com/drive/folders/1GJMMs2OQqrGUMYeUydGp_NU0tcKPpaF1?usp=sharing - Indian currency detection model
+https://drive.google.com/drive/folders/1eqXMN1O8oLrQTZGV7uKnYFCbJAyhiL6f?usp=sharing - Country model
+https://drive.google.com/drive/folders/1uUt3C0SrXQYfi98czXMb2MhNCA3Csa9s?usp=sharing - Denomination model
