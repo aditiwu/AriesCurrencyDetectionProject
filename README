@@ -1,0 +1,6 @@
+The documentation of this project can be found here: https://docs.google.com/document/d/16efrMIVSX1K-S2sO4Uwn6GrcZUsklObdFHO04ZJwheE/edit?usp=sharing
+
+Test.ipnyb contains the code for testing and making predictions
+Countries_sample.ipnyb contains the code for creating the dataset and model for countries
+Denomination_sample.ipnyb contains the code for creating the dataset and model for denominations
+India.ipnyb contains the code for creating the dataset and model for Indian currency banknotes
